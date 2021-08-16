@@ -1,0 +1,25 @@
+#lightThemeImage{
+    width:100%;
+    z-index:0;
+}
+
+#header{
+    color: white;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 14.0px;
+}
+
+#headerDiv{
+    display:flex;
+    justify-content: space-between;
+    margin: 0px 0px 30px 0px;
+}
+
+#moonImage{
+    height: 28px;
+    width: 28px;
+    max-height: 250px;
+    cursor:pointer;
+}

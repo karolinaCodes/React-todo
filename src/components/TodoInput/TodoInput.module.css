@@ -1,0 +1,33 @@
+#input{
+    border:none;
+    font-family: Josefin Sans, sans-serif;
+    font-weight: 400;
+    font-size:18px;
+    margin-left:15px;
+}
+
+#input:focus{
+    outline: none;
+}
+
+::placeholder {
+    color:var(--Dark-Grayish-Blue)
+  }
+
+#header{
+    display:flex;
+    align-items:center;
+    background-color:white;
+    padding:15px 20px;
+    margin:0px 0px 10px 0px;
+    border-radius: 5px;
+}
+
+#checkBtn{
+    width: 20px;
+    height:20px;
+    border-radius:50%;
+    border:none;
+    background-color:white;
+    border: 1px solid #ebecf5;
+}

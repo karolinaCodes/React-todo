@@ -1,0 +1,28 @@
+#footerList{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    font-size: 12px;
+    padding: 20px 18px;
+    color:#9495a5;
+    
+}
+
+#centerOptions{
+    display: flex;
+    
+}
+
+.centerOptionsP{
+    margin:0px 0px 0px 17px;
+    font-weight: 700;
+    cursor:pointer;
+}
+
+#clearCompleted{
+    cursor:pointer;
+}
+
+#clearCompleted:hover, .centerOptionsP:hover{
+color:#494C6B;
+}

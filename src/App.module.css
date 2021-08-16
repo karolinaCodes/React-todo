@@ -1,0 +1,23 @@
+#mainContent{
+    max-width: 520px;
+    margin: auto;
+    position: relative;
+    padding-top:80px;
+    height:100vh;
+}
+
+#dragAndDrop{
+    text-align: center;
+    margin-top:60px;
+    font-size:14px;
+    color:#9495a5;
+}
+
+
+.attribution{
+    position: absolute;
+    bottom: 15px;
+    font-size:18px;
+    text-align:center;
+    color:#494C6B;
+}
